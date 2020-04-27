@@ -35,4 +35,7 @@ a {
 
 div {
   float: left;
+  text-align: center;
+  background-color: red;
+  width: 25%;
 }
