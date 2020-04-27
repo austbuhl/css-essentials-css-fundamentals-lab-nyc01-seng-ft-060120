@@ -31,5 +31,7 @@ a {
 
 #details {
   display: block;
+}
+div {
   float: left;
 }
