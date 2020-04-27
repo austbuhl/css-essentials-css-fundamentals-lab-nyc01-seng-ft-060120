@@ -28,3 +28,8 @@ a {
   text-align: center;
   max-width: 800px;
 }
+
+#details {
+  display: block;
+  float: left;
+}
