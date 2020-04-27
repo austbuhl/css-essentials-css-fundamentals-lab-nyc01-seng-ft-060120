@@ -22,3 +22,8 @@ a {
   padding-right: 10px;
   background-color: gray;
 }
+
+#featured-property p {
+  text-align: center;
+  width: 800px;
+}
