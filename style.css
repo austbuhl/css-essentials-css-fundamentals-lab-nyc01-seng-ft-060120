@@ -24,6 +24,7 @@ a {
 }
 
 #featured-property p {
-  align: center;
+  margin: auto;
+  text-align: center;
   max-width: 800px;
 }
