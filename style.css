@@ -23,6 +23,6 @@ a {
   background-color: gray;
 }
 
-p#featured-property {
+#featured-property p {
   font-size: 100px;
 }
