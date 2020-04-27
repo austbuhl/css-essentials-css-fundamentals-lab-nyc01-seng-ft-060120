@@ -10,7 +10,7 @@ header {
 
 figure {
   text-align: center;
-    font-size: 12px;
+  font-size: 12px;
 }
 
 #details {
@@ -24,6 +24,5 @@ a {
 }
 
 p #featured-property {
-  text-align: center;
-  max-width: 800px;
+  font-size: 100px;
 }
