@@ -10,11 +10,11 @@ header {
 
 figure {
   text-align: center;
+    font-size: 5px;
 }
 
 #details {
   text-align: center;
-  font-size: 5px;
 }
 
 a {
